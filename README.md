@@ -1,2 +1,3 @@
 # github-demo
-Demo repo for Github course
+Demo repo for Git and Github course
+This is an additional line
